@@ -23,14 +23,14 @@ Welcome to my GitHub! Below are links to some of my repositories where you can f
 - [Ecommerce React Js](https://github.com/shazaaly/ecommercereact)
 - [Restaurant React Js](https://github.com/shazaaly/restaurant)
 - [Uber Clone React Js](https://github.com/shazaaly/uberDemo2)
-- ... More projects ...
+    ... More projects ...
 [Portfolio Web Site](https://portfoliogoreact.vercel.app/)
 
 ![My Badges](./achievments.PNG)
 
 ## Contact Me
 Feel free to reach out to me on 
-[LinkedIn](https://www.linkedin.com/in/shazaly) 
+[LinkedIn](https://www.linkedin.com/in/shazaly)  or
 [Twitter](https://twitter.com/shazaAlyOthman)
 
 - [My Tech Blog](https://shazaali.substack.com/)
