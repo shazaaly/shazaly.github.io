@@ -31,7 +31,6 @@ Welcome to my GitHub! Below are links to some of my repositories where you can f
 
 ![My Badges](./achievments.PNG)
 
-
 ## Contact Me
 Feel free to reach out to me on 
 [LinkedIn](https://www.linkedin.com/in/shazaly) 
