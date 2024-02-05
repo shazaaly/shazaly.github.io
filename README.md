@@ -15,7 +15,6 @@ Welcome to my GitHub! Below are links to some of my repositories where you can f
 - [alx-backend-javascript](https://github.com/shazaly/alx-backend-javascript)
 - [alx-backend-python](https://github.com/shazaly/alx-backend-python)
 - [alx-interview](https://github.com/shazaly/alx-interview)
-- ... More projects ...
 
 ## Other Personal Projects
 - [Advanced-Caching-CLI-Python](https://github.com/shazaly/Advanced-Caching-CLI-Python)
@@ -25,7 +24,7 @@ Welcome to my GitHub! Below are links to some of my repositories where you can f
 - [Restaurant React Js](https://github.com/shazaaly/restaurant)
 - [Uber Clone React Js](https://github.com/shazaaly/uberDemo2)
 - ... More projects ...
-- [Portfolio Web Site](https://portfoliogoreact.vercel.app/)
+[Portfolio Web Site](https://portfoliogoreact.vercel.app/)
 
 ![My Badges](./achievments.PNG)
 
