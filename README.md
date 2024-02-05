@@ -9,13 +9,13 @@ Welcome to my GitHub! Below are links to some of my repositories where you can f
 - [alx-higher_level_programming](https://github.com/shazaly/alx-higher_level_programming)
 - [alx-system_engineering-devops](https://github.com/shazaly/alx-system_engineering-devops)
 - [AirBnB_clone](https://github.com/shazaly/AirBnB_clone)
-- [AirBnB_clone_v2 ](https://github.com/shazaly/AirBnB_clone_v2 )
+- [AirBnB_clone_v2](https://github.com/shazaly/AirBnB_clone_v2 )
 - [AirBnB_clone_v4](https://github.com/shazaly/AirBnB_clone_v4)
 - [alx-backend](https://github.com/shazaly/alx-backend)
 - [alx-backend-python](https://github.com/shazaly/alx-backend-python)
 - [alx-backend-storage](https://github.com/shazaly/alx-backend-storage)
 - [alx-backend-javascript](https://github.com/shazaly/alx-backend-javascript)
-- [alx-backend-python ](https://github.com/shazaly/alx-backend-python)
+- [alx-backend-python](https://github.com/shazaly/alx-backend-python)
 - [alx-interview](https://github.com/shazaly/alx-interview)
 - ... More projects ...
 
@@ -39,4 +39,5 @@ or [Twitter](https://twitter.com/shazaAlyOthman)
 [My Tech Blog:] (https://shazaali.substack.com/)
 
 Thank you for visiting my GitHub!
+
 
