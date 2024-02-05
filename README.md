@@ -1,5 +1,3 @@
-# Shazaly's Project Portfolio
-
 Welcome to my GitHub! Below are links to some of my repositories where you can find my ALX projects and other personal projects.
 
 ![My Contributions](./github.PNG)
