@@ -7,8 +7,13 @@
 - 💞️ MERN Stack Instructor @GoMyCode Egypt
 - I used to build Responsive functional web apps using:
     HTML- CSS - JavaScript - JQuery- Bootstrap -JavaScript - React Js - Node Js - Python - Flask.
+<<<<<<< HEAD
 - 📫 How to reach me: [shaza.aly@gmail.com]  ----    [https://www.linkedin.com/in/shazaali/]
 - 📚 (See My Technical Blog)[https://shazaali.substack.com/]
+=======
+- 📫 How to reach me: shaza.aly@gmail.com  ----    https://www.linkedin.com/in/shazaali/
+- 📚 See My Technical Blog : https://shazaali.substack.com/
+>>>>>>> refs/remotes/origin/main
 
 
 ### Skills and Interests
@@ -39,7 +44,7 @@ Embark on a tour through my educational journey with ALX, showcasing skills in C
 - [AirBnB_clone_v2](https://github.com/shazaaly/AirBnB_clone_v2) - Enhancements to the original clone, integrating SQL databases.
 - [AirBnB_clone_v4](https://github.com/shazaaly/AirBnB_clone_v4) - Advanced features including RESTful API integration and dynamic web interfaces.
 - [alx-backend](https://github.com/shazaaly/alx-backend) - Backend development principles, focusing on microservices and REST APIs.
-- [alx-backend-python](https://github.com/shazaaly/alx-backend-python) Python backend development, emphasizing on Flask and Django frameworks.
+- [alx-backend-python](https://github.com/shazaaly/alx-backend-python) Python backend development, emphasizing on Flask framework.
 - [alx-backend-storage](https://github.com/shazaaly/alx-backend-storage) - Data persistence and manipulation using SQL and NoSQL databases.
 - [alx-backend-javascript](https://github.com/shazaaly/alx-backend-javascript) - Utilizing JavaScript in backend development to create scalable applications.
 - [alx-interview](https://github.com/shazaaly/alx-interview) - Preparation exercises for software engineering interviews, focusing on algorithms and problem-solving.
