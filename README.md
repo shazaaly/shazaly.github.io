@@ -13,7 +13,7 @@
 =======
 - 📫 How to reach me: shaza.aly@gmail.com  ----    https://www.linkedin.com/in/shazaali/
 - 📚 See My Technical Blog : https://shazaali.substack.com/
->>>>>>> refs/remotes/origin/main
+
 
 
 ### Skills and Interests
