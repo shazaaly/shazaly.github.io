@@ -5,8 +5,8 @@
 
 ### ALX Projects
 Embark on a tour through my educational journey with ALX, showcasing skills in C, Python, DevOps, and more:
-- [alx-low_level_programming](https://github.com/shazaly/alx-low_level_programming) - Explore the basics of C programming, focusing on algorithms, data structures, and memory management.
-- [alx-higher_level_programming](https://github.com/shazaly/alx-higher_level_programming) - Dive into Python programming covering OOP, scripting, and web scraping.
+- [alx-low_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Explore the basics of C programming, focusing on algorithms, data structures, and memory management.
+- [alx-higher_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Dive into Python programming covering OOP, scripting, and web scraping.
 - [alx-system_engineering-devops](https://github.com/shazaly/alx-system_engineering-devops) - Insights into the world of DevOps, including scripting in Bash and managing web servers.
 - [AirBnB_clone](https://github.com/shazaly/AirBnB_clone) - The first step in building a complete web application resembling AirBnB.
 - [AirBnB_clone_v2](https://github.com/shazaly/AirBnB_clone_v2) - Enhancements to the original clone, integrating SQL databases.
