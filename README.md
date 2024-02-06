@@ -7,7 +7,7 @@
 - 💞️ MERN Stack Instructor @GoMyCode Egypt  => https://gomycode.com/eg/
 - I used to build Responsive functional web apps using:
     HTML- CSS - JavaScript - JQuery- Bootstrap -JavaScript - React Js - Node Js - Python - Flask.
-- Rank 7 in Top GitHub Users By Public Contributions in Egypt Image of insights
+- Rank 7 in Top GitHub Users By Public Contributions in Egypt Image of insights:
     [https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md]
 
 - 📫 How to reach me: [shaza.aly@gmail.com]  ----    [https://www.linkedin.com/in/shazaali/]
