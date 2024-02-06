@@ -14,7 +14,7 @@ Embark on a tour through my educational journey with ALX, showcasing skills in C
 - [alx-backend](https://github.com/shazaaly/alx-backend) - Backend development principles, focusing on microservices and REST APIs.
 - [alx-backend-python](https://github.com/shazaaly/alx-backend-python) Python backend development, emphasizing on Flask and Django frameworks.
 - [alx-backend-storage](https://github.com/shazaaly/alx-backend-storage) - Data persistence and manipulation using SQL and NoSQL databases.
-- [alx-backend-javascript](https://github.com/shazaly/alx-backend-javascript) - Utilizing JavaScript in backend development to create scalable applications.
+- [alx-backend-javascript](https://github.com/shazaaly/alx-backend-javascript) - Utilizing JavaScript in backend development to create scalable applications.
 - [alx-interview](https://github.com/shazaaly/alx-interview) - Preparation exercises for software engineering interviews, focusing on algorithms and problem-solving.
 
 ### Other Personal Projects
