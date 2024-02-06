@@ -19,7 +19,7 @@
   - Version control with Git and GitHub
   - Web development with HTML, CSS, and JavaScript, Python Flask, Node Js
   - Linux and system engineering
-  - Databases including SQL and MySQL
+  - Databases including SQL MySQL, NoSQL.
   - DevOps tools like Nginx and monitoring
 - Interested in:
   - Front-end and back-end development
