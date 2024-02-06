@@ -8,14 +8,14 @@ Embark on a tour through my educational journey with ALX, showcasing skills in C
 - [alx-low_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Explore the basics of C programming, focusing on algorithms, data structures, and memory management.
 - [alx-higher_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Dive into Python programming covering OOP, scripting, and web scraping.
 - [alx-system_engineering-devops](https://github.com/shazaaly/alx-system_engineering-devops) - Insights into the world of DevOps, including scripting in Bash and managing web servers.
-- [AirBnB_clone](https://github.com/shazaly/AirBnB_clone) - The first step in building a complete web application resembling AirBnB.
-- [AirBnB_clone_v2](https://github.com/shazaly/AirBnB_clone_v2) - Enhancements to the original clone, integrating SQL databases.
-- [AirBnB_clone_v4](https://github.com/shazaly/AirBnB_clone_v4) - Advanced features including RESTful API integration and dynamic web interfaces.
-- [alx-backend](https://github.com/shazaly/alx-backend) - Backend development principles, focusing on microservices and REST APIs.
-- [alx-backend-python](https://github.com/shazaly/alx-backend-python) Python backend development, emphasizing on Flask and Django frameworks.
-- [alx-backend-storage](https://github.com/shazaly/alx-backend-storage) - Data persistence and manipulation using SQL and NoSQL databases.
+- [AirBnB_clone](https://github.com/shazaaly/AirBnB_clone) - The first step in building a complete web application resembling AirBnB.
+- [AirBnB_clone_v2](https://github.com/shazaaly/AirBnB_clone_v2) - Enhancements to the original clone, integrating SQL databases.
+- [AirBnB_clone_v4](https://github.com/shazaaly/AirBnB_clone_v4) - Advanced features including RESTful API integration and dynamic web interfaces.
+- [alx-backend](https://github.com/shazaaly/alx-backend) - Backend development principles, focusing on microservices and REST APIs.
+- [alx-backend-python](https://github.com/shazaaly/alx-backend-python) Python backend development, emphasizing on Flask and Django frameworks.
+- [alx-backend-storage](https://github.com/shazaaly/alx-backend-storage) - Data persistence and manipulation using SQL and NoSQL databases.
 - [alx-backend-javascript](https://github.com/shazaly/alx-backend-javascript) - Utilizing JavaScript in backend development to create scalable applications.
-- [alx-interview](https://github.com/shazaly/alx-interview) - Preparation exercises for software engineering interviews, focusing on algorithms and problem-solving.
+- [alx-interview](https://github.com/shazaaly/alx-interview) - Preparation exercises for software engineering interviews, focusing on algorithms and problem-solving.
 
 ### Other Personal Projects
 Showcasing a variety of projects where I've applied and expanded my skills:
