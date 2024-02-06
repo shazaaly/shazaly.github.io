@@ -27,12 +27,12 @@
   - Collaborating on open-source projects
   - Learning new technologies and frameworks
 
-🟥<strong style="color: blue;">Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.</strong>
+🟥 <strong style="color: blue;">Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.</strong>
 
 
 ![My Contributions](./github.PNG)
 
-### ALX Projects
+🟩 ### ALX Projects
 Embark on a tour through my educational journey with ALX, showcasing skills in C, Python, DevOps, and more:
 - [alx-low_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Explore the basics of C programming, focusing on algorithms, data structures, and memory management.
 - [alx-higher_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Dive into Python programming covering OOP, scripting, and web scraping.
@@ -54,7 +54,7 @@ Showcasing a variety of projects where I've applied and expanded my skills:
 - [Ecommerce React Js](https://github.com/shazaaly/ecommercereact) - An e-commerce platform built with React.js showcasing modern web development practices.
 - [Restaurant React Js](https://github.com/shazaaly/restaurant) - A restaurant website project emphasizing React.js for dynamic user interfaces.
 
-### Portfolio & Contact
+🟦 ### Portfolio & Contact
 - **[Portfolio Web Site](https://portfoliogoreact.vercel.app/)** - Discover more about my projects and professional journey.
 - **[LinkedIn](https://www.linkedin.com/in/shazaly)** - Connect with me professionally.
 - **[Twitter](https://twitter.com/shazaAlyOthman)** - Follow my tech and coding adventures.
