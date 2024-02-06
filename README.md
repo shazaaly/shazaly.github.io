@@ -11,6 +11,21 @@
 - 📚 See My Technical Blog : https://shazaali.substack.com/
 
 
+### Skills and Interests
+
+- Proficient in:
+  - Programming languages: C, Python, JavaScript
+  - Version control with Git and GitHub
+  - Web development with HTML, CSS, and JavaScript, Python Flask, Node Js
+  - Linux and system engineering
+  - Databases including SQL and MySQL
+  - DevOps tools like Nginx and monitoring
+- Interested in:
+  - Front-end and back-end development
+  - Building scalable and efficient web applications
+  - Collaborating on open-source projects
+  - Learning new technologies and frameworks
+
 Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.
 
 ![My Contributions](./github.PNG)
