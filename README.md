@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Shaza Ali 
 - 👀 I’m interested in Backend Engineering 
 - 🌱 I’m currently enrolled in ALX software enginnering apprenticeship.
-- 💞️ MERN Stack Instructor @GoMyCode Egypt [https://gomycode.com/eg/]
+- 💞️ MERN Stack Instructor @GoMyCode Egypt  => https://gomycode.com/eg/
 - I used to build Responsive functional web apps using:
     HTML- CSS - JavaScript - JQuery- Bootstrap -JavaScript - React Js - Node Js - Python - Flask.
 
