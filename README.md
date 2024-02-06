@@ -20,10 +20,10 @@ Embark on a tour through my educational journey with ALX, showcasing skills in C
 ### Other Personal Projects
 Showcasing a variety of projects where I've applied and expanded my skills:
 - [Advanced-Caching-CLI-Python](https://github.com/shazaly/Advanced-Caching-CLI-Python) - A CLI tool for advanced caching techniques in Python.
-- [mediconsult](https://github.com/shazaly/mediconsult) - A healthcare consultation platform to connect patients with doctors.
-- [Uber Clone React Js](https://github.com/shazaly/uberDemo2) - A React implementation of an Uber clone (Note: This link is repeated, consider updating or removing the duplicate).
-- [Ecommerce React Js](https://github.com/shazaly/ecommercereact) - An e-commerce platform built with React.js showcasing modern web development practices.
-- [Restaurant React Js](https://github.com/shazaly/restaurant) - A restaurant website project emphasizing React.js for dynamic user interfaces.
+- [mediconsult](https://github.com/shazaaly/mediconsult) - A healthcare consultation platform to connect patients with doctors.
+- [Uber Clone React Js](https://github.com/shazaaly/uberDemo2) - A React implementation of an Uber clone (Note: This link is repeated, consider updating or removing the duplicate).
+- [Ecommerce React Js](https://github.com/shazaaly/ecommercereact) - An e-commerce platform built with React.js showcasing modern web development practices.
+- [Restaurant React Js](https://github.com/shazaaly/restaurant) - A restaurant website project emphasizing React.js for dynamic user interfaces.
 
 ### Portfolio & Contact
 - **[Portfolio Web Site](https://portfoliogoreact.vercel.app/)** - Discover more about my projects and professional journey.
