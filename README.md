@@ -7,13 +7,9 @@
 - 💞️ MERN Stack Instructor @GoMyCode Egypt
 - I used to build Responsive functional web apps using:
     HTML- CSS - JavaScript - JQuery- Bootstrap -JavaScript - React Js - Node Js - Python - Flask.
-<<<<<<< HEAD
+
 - 📫 How to reach me: [shaza.aly@gmail.com]  ----    [https://www.linkedin.com/in/shazaali/]
 - 📚 (See My Technical Blog)[https://shazaali.substack.com/]
-=======
-- 📫 How to reach me: shaza.aly@gmail.com  ----    https://www.linkedin.com/in/shazaali/
-- 📚 See My Technical Blog : https://shazaali.substack.com/
->>>>>>> refs/remotes/origin/main
 
 
 ### Skills and Interests
