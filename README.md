@@ -27,7 +27,7 @@
   - Collaborating on open-source projects
   - Learning new technologies and frameworks
 
-<strong>Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.</strong>
+- ![#f03c15]Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.
 
 ![My Contributions](./github.PNG)
 
