@@ -32,7 +32,7 @@
 
 ![My Contributions](./github.PNG)
 
-### ALX Projects
+### ALX Projects ![alt text](image.png)
 Embark on a tour through my educational journey with ALX, showcasing skills in C, Python, DevOps, and more:
 - [alx-low_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Explore the basics of C programming, focusing on algorithms, data structures, and memory management.
 - [alx-higher_level_programming](https://github.com/shazaaly/alx-higher_level_programming) - Dive into Python programming covering OOP, scripting, and web scraping.
