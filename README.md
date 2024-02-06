@@ -27,10 +27,8 @@
   - Collaborating on open-source projects
   - Learning new technologies and frameworks
 
-```diff
 <strong>Below are links to some of my repositories where you can find my ALX projects alongside other personal projects. Dive into my journey as a software engineer, exploring everything from low-level programming to full-stack development.</strong>
-@@ text in purple (and bold)@@
-```
+
 ![My Contributions](./github.PNG)
 
 ### ALX Projects
